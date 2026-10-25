@@ -30,6 +30,91 @@ TradeTrust solves this with a **three-pillar Web3 and AI architecture**:
 
 ---
 
+## 🎬 Product Demo Video & Interactive Preview
+
+<div align="center">
+
+### ⚡ Looping Product Experience Showcase
+![TradeTrust Interactive Product Demo](docs/images/tradetrust-demo.gif)
+
+*Autonomous workflow: Landing hero &rarr; Multi-wallet connection &rarr; Merchant dashboard &rarr; ZK Privacy proof studio &rarr; Lender underwriting desk &rarr; Bitrefill commerce terminal &rarr; Stress testing.*
+
+<br/>
+
+### 🎥 Full High-Definition Product Demo Video
+*Click below to stream or download the complete product walkthrough video:*
+
+[![Watch Product Demo Video](docs/images/03-how-it-works-video.png)](public/demo/tradetrust-demo.mp4)
+
+**[▶️ Play / Download HD Demo MP4 (3.5 MB)](public/demo/tradetrust-demo.mp4)** • **[WebM Format](public/demo/tradetrust-demo.webm)**
+
+</div>
+
+---
+
+## 📸 Visual Product Tour & Interface Gallery
+
+### 1. Dual Operational Themes
+| 🌙 True Jet Black (`#000000`) Mode | ☀️ Crisp High-Contrast Light Mode |
+| :---: | :---: |
+| ![Homepage Dark](docs/images/01-hero-dark.png) | ![Homepage Light](docs/images/02-hero-light.png) |
+| *True Jet Black background with mint accents and high-contrast Web3 badges.* | *Crisp white aesthetic optimized for daytime institutional audits.* |
+
+---
+
+### 2. Multi-Wallet Web3 Engine
+| Clean Initial Disconnected State | Multi-Wallet Connection Modal |
+| :---: | :---: |
+| ![Disconnected Header](docs/images/01-hero-dark.png) | ![Multi-Wallet Modal](docs/images/12-multi-wallet-modal.png) |
+| *Zero hardcoded addresses; starts clean with prominent "Connect Wallet" CTA.* | *Supports MetaMask, Coinbase Smart Wallet, Injected, and Demo Sandbox.* |
+
+---
+
+### 3. Merchant Operating Hub (`/app`)
+| Merchant Central Dashboard | 5-Step Working-Capital Application |
+| :---: | :---: |
+| ![Merchant Dashboard](docs/images/04-merchant-dashboard.png) | ![Financing Application](docs/images/05-financing-application.png) |
+| *Real-time credit health, active financing, KPI metrics, and tool shortcuts.* | *Profile setup, capital requirements, evidence binding & onchain submission.* |
+
+| Cash-Flow Passport & Credential Registry | Cash-Flow Stress Simulator |
+| :---: | :---: |
+| ![Cash-Flow Passport](docs/images/11-cash-flow-passport.png) | ![Stress Simulator](docs/images/10-stress-simulator.png) |
+| *Verifiable invoice attestations, delivery proof, and onchain dispute registry.* | *Interactive sensitivity modeling calculating DSCR under macroeconomic shocks.* |
+
+---
+
+### 4. Zero-Knowledge Privacy Studio (`/app/privacy`)
+<div align="center">
+  <img src="docs/images/06-zk-privacy-studio.png" alt="ZK Privacy Studio" width="100%" />
+  <p><em><strong>BN254 Groth16 zk-SNARK Prover & Verifier:</strong> Merchants prove that $\text{Revenue} \ge \$15,000$ without revealing actual gross sales. Features live curve point inspection and an interactive attack simulator that rejects forged or replayed proofs.</em></p>
+</div>
+
+---
+
+### 5. Institutional Lender Underwriting Desk (`/lender`)
+| Institutional Portfolio Overview | Detailed Request Underwriting Dossier |
+| :---: | :---: |
+| ![Lender Overview](docs/images/07-lender-underwriting.png) | ![Lender Request Dossier](docs/images/08-lender-request-dossier.png) |
+| *Total capital deployed, active credit agreements, and risk analytics.* | *Cryptographic proof inspection, covenant checks, and offer issuance desk.* |
+
+---
+
+### 6. Bitrefill Agentic Commerce Terminal (`/app/commerce`)
+<div align="center">
+  <img src="docs/images/09-agentic-commerce.png" alt="Bitrefill Agentic Commerce" width="100%" />
+  <p><em><strong>Autonomous AI Catalog Search with Onchain Guardrails:</strong> AI agent finds supported gift cards and merchant supplies, verifies vendor pricing, and stages purchase proposals. Execution is strictly blocked until the merchant reviews and approves the onchain Base Sepolia transaction.</em></p>
+</div>
+
+---
+
+### 7. Integrated Video Player with Chapter Sync
+<div align="center">
+  <img src="docs/images/03-how-it-works-video.png" alt="How It Works Video Player" width="100%" />
+  <p><em>Interactive HTML5 video demo embedded in the marketing site with 4 synchronized workflow stages: <strong>01 Verify &bull; 02 Protect &bull; 03 Discover &bull; 04 Execute</strong>.</em></p>
+</div>
+
+---
+
 ## 🏛️ System Architecture
 
 ```mermaid
